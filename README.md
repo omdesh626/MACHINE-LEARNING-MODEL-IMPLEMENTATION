@@ -92,3 +92,5 @@ Install the required packages using pip:
 pip install numpy scikit-learn
 ```
 OUTPUT-
+![Image](https://github.com/user-attachments/assets/412b9a0e-738c-4b46-8cdb-923f0b56dc5b)
+
